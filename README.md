@@ -9,7 +9,7 @@ The candidate will deploy different components from a common infrastructure in A
 * One Database Server
 
 ## Steps
-* Choose an automation tool: ansible, puppet, chef, bash, terraform, etc.
+* Choose an infrastructure as code tool: terraform, cloudformation, pulumi, ansible, etc.
 * Choose the cloud provider where you are going to deploy the infrastructure.
 * Clone the repository. Create your own branch for the exercise.
 * List your requirements in order to execute the deployment.
